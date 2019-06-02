@@ -54,5 +54,42 @@
             "descr": "Hello! If you want to drink some delicious smoothies - just call me!",
             "id": "6"
         }
+    ],
+    "users": [
+        {
+            "name": "Harry",
+            "altname": "prince",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBW4EkYEkB6-cyLyyJGMDiEnu1oqvlTLgPyK6Brz5SJrp38ls",
+            "alt": "photo",
+            "id": "1"
+        },
+        {
+            "name": "Harry",
+            "altname": "prince",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBW4EkYEkB6-cyLyyJGMDiEnu1oqvlTLgPyK6Brz5SJrp38ls",
+            "alt": "photo",
+            "id": "2"
+        },
+        {
+            "name": "Harry",
+            "altname": "prince",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBW4EkYEkB6-cyLyyJGMDiEnu1oqvlTLgPyK6Brz5SJrp38ls",
+            "alt": "photo",
+            "id": "3"
+        },
+        {
+            "name": "Harry",
+            "altname": "prince",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBW4EkYEkB6-cyLyyJGMDiEnu1oqvlTLgPyK6Brz5SJrp38ls",
+            "alt": "photo",
+            "id": "4"
+        },
+        {
+            "name": "Harry",
+            "altname": "prince",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBW4EkYEkB6-cyLyyJGMDiEnu1oqvlTLgPyK6Brz5SJrp38ls",
+            "alt": "photo",
+            "id": "5"
+        }
     ]
 }

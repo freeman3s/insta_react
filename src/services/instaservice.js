@@ -18,4 +18,10 @@ export default class Instaservice {
 
         return res;
     }
+
+    getAllUsers = async () => {
+        const res = await this.getResource('users/');
+
+        return res;
+    }
 }
