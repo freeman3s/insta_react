@@ -37,7 +37,7 @@ export default class Users extends Component
         if (type === 'main') {
             var newArr = arr.splice(0, 1);
         } else {
-            var newArr = arr.splice(1, arr.length);
+            newArr = arr.splice(1, arr.length);
         }
         
 
@@ -45,7 +45,7 @@ export default class Users extends Component
             const {name, src, alt, id} = item;
 
             return (
-                <a href="!#" className={'user '+type} id={id}>
+                <a href="!#" className={'user '+type} key={id}>
                     <img src={src} alt={alt}></img>
                     <div>{name}</div>
                 </a>
